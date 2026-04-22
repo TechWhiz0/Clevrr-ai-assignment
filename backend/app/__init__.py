@@ -1,0 +1,1 @@
+"""Shopify AI Agent backend."""
